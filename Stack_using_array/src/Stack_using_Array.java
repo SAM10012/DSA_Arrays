@@ -7,6 +7,7 @@ import java.util.*;
 | -------------------- | ----------------------------- |
 | **Time Complexity**  | O(1) for all stack operations |
 | **Space Complexity** | O(n)                          |
+
 */
 
 public class Stack_using_Array {
